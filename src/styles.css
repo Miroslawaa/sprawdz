@@ -1,0 +1,25 @@
+.App {
+  font-family: sans-serif;
+  text-align: center;
+}
+.kulka {
+  background-color: blue;
+  border-radius: 50%;
+  position: absolute;
+  left: 0;
+  top: 0;
+  width: 50px;
+  height: 50px;
+}
+.proba {
+  background-color: pink;
+  width: 50px;
+  height: 30px;
+  position: absolute;
+}
+.proba1 {
+  background-color: rosybrown;
+  width: 50px;
+  height: 30px;
+  position: absolute;
+}
